@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome, type your question, please...</title>
+    <style>
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        input {
+            padding: 10px 15px;
+            font-size: 16px;
+            border: 1px solid #233554;
+            border-radius: 5px;
+            background-color: #112240;
+            color: #ffffff;
+            outline: none;
+        }
+        input:focus {
+            border-color: #64ffda;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <label for="user-input">Eingabe:</label>
+        <input type="text" id="user-input" placeholder="Hier tippen...">
+    </div>
+
+</body>
+</html>
