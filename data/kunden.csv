@@ -1,0 +1,31 @@
+Kunden_ID,Vorname,Nachname,Firma,Email,Telefon,Straße,PLZ,Stadt,Kundenseit,Umsatzklasse
+K0001,Tom,Köhler,Greenfield KG,tom.köhler@greenfield.de,+49 157 1971823,Lindenallee 113,84364,München,2012,C
+K0002,Simon,Schmid,Blaustern & Co. KG,simon.schmid@blaustern.de,+49 174 3109911,Gartenweg 85,72296,Dortmund,2015,B
+K0003,Lea,Schulze,Fokus Consulting e.K.,lea.schulze@fokus.de,+49 156 4374754,Schillerstraße 52,98039,Bremen,2021,B
+K0004,Franziska,Zimmermann,Baumann GmbH,franziska.zimmermann@baumann.de,+49 157 4769795,Bahnhofstraße 44,12757,Essen,2017,C
+K0005,Paul,Müller,Blaustern GmbH,paul.müller@blaustern.de,+49 157 2130789,Hauptstraße 111,53309,München,2017,B
+K0006,Ben,Schwarz,Alpina & Co. KG,ben.schwarz@alpina.de,+49 154 8930103,Lindenallee 101,71993,Hannover,2023,A
+K0007,Tom,Fischer,Rheinmetall Handel KG,tom.fischer@rheinmetall.de,+49 163 7897151,Ringstraße 111,17100,Bremen,2013,A
+K0008,Emma,Krause,Greenfield GmbH,emma.krause@greenfield.de,+49 157 4214348,Lindenallee 69,68800,Hamburg,2023,A
+K0009,Laura,Neumann,Alpina GmbH,laura.neumann@alpina.de,+49 164 2642635,Hauptstraße 84,80855,Nürnberg,2010,A
+K0010,Moritz,Meier,Alpina AG,moritz.meier@alpina.de,+49 163 9147706,Ringstraße 28,62565,Duisburg,2011,A
+K0011,Emma,Müller,Rheinmetall Handel KG,emma.müller@rheinmetall.de,+49 179 8633773,Schillerstraße 55,82845,Bremen,2025,A
+K0012,Mia,Hoffmann,Alpina GmbH,mia.hoffmann@alpina.de,+49 168 2022698,Kirchweg 8,16572,Essen,2025,C
+K0013,Moritz,Schulze,Delta Systeme AG,moritz.schulze@delta.de,+49 151 9519948,Bahnhofstraße 109,34356,München,2012,C
+K0014,Elias,Becker,Rheinmetall Handel GmbH,elias.becker@rheinmetall.de,+49 178 5130808,Bergstraße 77,15209,Essen,2012,B
+K0015,Ben,Krüger,Fokus Consulting & Co. KG,ben.krüger@fokus.de,+49 160 5374922,Lindenallee 86,51180,Köln,2018,B
+K0016,Sarah,Schmitt,Solvex e.K.,sarah.schmitt@solvex.de,+49 160 2217071,Hauptstraße 59,91416,Essen,2013,A
+K0017,Tim,Wagner,Delta Systeme KG,tim.wagner@delta.de,+49 154 6855396,Bahnhofstraße 113,42018,Stuttgart,2019,A
+K0018,Nina,Schmid,Delta Systeme KG,nina.schmid@delta.de,+49 169 9874152,Hauptstraße 86,82692,Frankfurt,2013,A
+K0019,Laura,Fischer,Blaustern & Co. KG,laura.fischer@blaustern.de,+49 154 5569244,Schillerstraße 78,37607,Dresden,2020,A
+K0020,Ben,Lange,Solvex & Co. KG,ben.lange@solvex.de,+49 165 5213115,Hauptstraße 12,93136,Düsseldorf,2018,A
+K0021,Anna,Koch,Techpartner KG,anna.koch@techpartner.de,+49 155 8412769,Waldweg 91,66057,Dortmund,2010,A
+K0022,Lisa,Maier,Techpartner & Co. KG,lisa.maier@techpartner.de,+49 151 7194416,Bergstraße 71,29410,Düsseldorf,2014,A
+K0023,Felix,Richter,Nordwind KG,felix.richter@nordwind.de,+49 156 5186414,Bahnhofstraße 46,83385,Duisburg,2023,C
+K0024,Leon,Weber,Alpina AG,leon.weber@alpina.de,+49 175 3970445,Marktplatz 4,33509,Dresden,2020,B
+K0025,Finn,Schmitt,Alpina KG,finn.schmitt@alpina.de,+49 155 2813543,Marktplatz 112,15075,Nürnberg,2025,A
+K0026,Mia,Schmid,Baumann KG,mia.schmid@baumann.de,+49 159 4818418,Lindenallee 4,96511,Köln,2022,B
+K0027,Laura,Schulze,Blaustern KG,laura.schulze@blaustern.de,+49 161 9546409,Marktplatz 87,80282,Stuttgart,2010,A
+K0028,Franziska,Schulz,Techpartner & Co. KG,franziska.schulz@techpartner.de,+49 158 1641849,Bahnhofstraße 77,66959,Stuttgart,2020,B
+K0029,Jan,Zimmermann,Blaustern e.K.,jan.zimmermann@blaustern.de,+49 178 4188992,Schillerstraße 6,67154,Berlin,2016,B
+K0030,David,Schneider,Greenfield & Co. KG,david.schneider@greenfield.de,+49 160 3090865,Schillerstraße 65,50538,Bremen,2023,B
