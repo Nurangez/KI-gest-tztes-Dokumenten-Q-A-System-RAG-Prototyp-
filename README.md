@@ -1,4 +1,4 @@
-# 🤖 KI-gestütztes Dokumenten-Q&A-System (RAG-Prototyp)[KI erstellte Text]
+# 🤖 KI-gestütztes Dokumenten-Q&A-System (RAG-Prototyp)[KI erstellter Text]
 
 Ein Prototyp, der es ermöglicht, in natürlicher Sprache Fragen zu internen
 Firmendokumenten (PDF, Word, Excel, CSV, PowerPoint) zu stellen. Entstanden
